@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?count_private=true&hide_title=true&include_all_commits=false&show_icons=true&theme=transparent&username=samuelkong)
+
 <!--
 **samuelkong/samuelkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
