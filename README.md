@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+<!--
+Documentation for github-readme-stats:  https://github.com/anuraghazra/github-readme-stats
+-->
+
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?count_private=true&hide_title=true&include_all_commits=false&show_icons=true&theme=transparent&username=samuelkong)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=false&langs_count=4&layout=compact&username=samuelkong)
+
+
 
 <!--
 **samuelkong/samuelkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
